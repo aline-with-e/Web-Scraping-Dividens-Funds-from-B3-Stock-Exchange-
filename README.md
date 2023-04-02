@@ -1,5 +1,5 @@
 # Web-Scraping-Dividens-Funds-from-B3-Stock-Exchange-
-This code was built using Python and R to web scrape dividends from Funds from B3 stock exchange. 
+This code was built using Python and R to web scrape dividends from Funds from B3 stock exchange. The script in a jupyter notebook.
 
 The main purpose of this code was  automate my daily tasks. 
 
